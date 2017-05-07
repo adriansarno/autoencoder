@@ -89,4 +89,4 @@ ENV/
 .ropeproject
 
 
-MNIS_data/
+MNIST_data/
